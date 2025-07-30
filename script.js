@@ -1,6 +1,6 @@
 // Typing animation effect
 const typingElement = document.querySelector('.typing');
-const titles = ["Welcome to My pPortfolio", " I am Tech Enthusiast", " I am Tech Explorer"];
+const titles = ["Welcome to My Portfolio", " I am Tech Enthusiast", " I am Tech Explorer"];
 let charIndex = 0;
 let titleIndex = 0;
 let isDeleting = false;
